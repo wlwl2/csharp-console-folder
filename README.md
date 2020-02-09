@@ -8,6 +8,11 @@ You can delete the "HelloWorld" folder and create new projects with this templat
 
 .gitignore file deals with VS Code and Visual Studio.
 
+## Getting Started
+
+**You cannot run the sample project if you open VS Code in the folder/directory this README.md file is in.**
+To test out the sample project, **open the "HelloWorld" project folder provided- with VS Code.**
+
 ## New projects
 
 1. Create a folder for the new project.
