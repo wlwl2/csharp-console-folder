@@ -1,6 +1,6 @@
-# CSharpVSCode
+# C# Console App
 
-C# Visual Studio Code Template
+Basic C# Console App in a folder template.
 
 A sample project called "HelloWorld", and a sample class called "MyClass.cs" have already been created with the instructions below.
 
