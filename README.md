@@ -2,8 +2,6 @@
 
 Basic C# Console App in a folder template.
 
-Currently only for Win 10.
-
 A sample project called "HelloWorld", and a sample class called "MyClass.cs" have already been created with the instructions below.
 
 You can delete the "HelloWorld" folder and create new projects with this template.
