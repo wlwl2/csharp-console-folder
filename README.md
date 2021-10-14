@@ -15,9 +15,9 @@ To test out the sample project, **open the "HelloWorld" project folder provided-
 
 ## New projects
 
-1. Create a folder for the new project.
+1. **Create a folder for the new project**.
 
-2. In that folder run `dotnet new console` in the VS Code Integrated Terminal.
+2. **In that folder** run `dotnet new console` in the VS Code Integrated Terminal.
 
 3. For .NET Core 1.x, type `dotnet restore`. Starting with .NET Core 2.0 SDK, you don't have to run `dotnet restore`. It's still a valid command in certain scenarios where doing an explicit restore makes sense, such as continuous integration builds in Azure DevOps Services or in build systems that need to explicitly control the time at which the restore occurs.
 
