@@ -1,4 +1,4 @@
-# Basic .NET 5 C# Console App (In Folder)
+# Basic .NET 5 C# Console App (In a Folder)
 
 Basic C# Console App in a folder template.
 
